@@ -100,4 +100,15 @@ body
     padding: 0 35px;
     margin: 0 10px 5px 0;
 }
+
+.add-button
+{
+    position: relative;
+    line-height: 42px;
+    border: 1px solid #fd9729;
+    color: #fff;
+    background-color: #fd9729;
+    padding: 0 35px;
+    margin: 30px 10px 5px 0;
+}
 /* End Section details */
